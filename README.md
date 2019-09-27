@@ -10,6 +10,7 @@ The algorithm internally builds 36 ARIMA models and chooses the optimal model (o
 The total run time of this model is ~45 minutes.
 The model out put looks like this : (image)
 
+![alt text](https://github.com/shvm2012/IEX-bid-price-prediction-model/blob/master/Capture.JPG)
 
 #### Guidelines for running the model:
 * open the R shiny application in browser mode
